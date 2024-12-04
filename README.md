@@ -13,13 +13,6 @@ Este projeto consiste em uma página web simples e responsiva que apresenta a re
 - **Design responsivo:** Layout adaptável a dispositivos móveis.
 - **Estilo temático:** Cores amarelo e marrom para refletir o tema.
 
-### **Funcionalidades Futuras**
-- Navegação para outras receitas.
-- Formulário para envio de receitas pelos usuários.
-- Seção com dicas para melhorar a receita.
-
----
-
 ## **Estrutura do Projeto**
 
 O projeto está organizado da seguinte forma:
